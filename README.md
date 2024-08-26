@@ -1,8 +1,3 @@
-
-
-Here is the updated README.md file:
-
-
 # Blockchain
 Simple blockchain using python
 
