@@ -24,11 +24,12 @@ This is a basic implementation of a blockchain in python. The blockchain is desi
 * Flask
 * hashlib
 * urlparse
+* requests
 
 ## Installing Requirements
 To install the required dependencies, run the following command:
 ```bash
-pip install Flask hashlib urlparse
+pip install Flask hashlib urlparse requests
 ```
 ## Running the Project
 To run the project, simply execute the `blockchain.py` file. The blockchain will be available at `http://localhost:5000`.
