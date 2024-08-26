@@ -14,6 +14,7 @@ This is a basic implementation of a blockchain in python. The blockchain is desi
 * Ability to resolve conflicts using a consensus algorithm
 
 ## API Endpoints
+* `/mine`: Mines a new block
 * `/chain`: Returns the entire blockchain
 * `/transactions/new`: Creates a new transaction
 * `/nodes/register`: Registers a new node
